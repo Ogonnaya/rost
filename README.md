@@ -19,18 +19,17 @@ The ROST app filters out all excess material and provides key data that helps th
 #### Try it out: [ROST](https://ogonnaya.github.io/rost/)
 
 ### Technologies Used
-##### Languages
-HTML | CSS | Javascript
+* ##### Languages
+  HTML | CSS | Javascript
 
-##### CSS Frameworks
-Bootstrap | Material Design
+* ##### CSS Frameworks
+  Bootstrap | Material Design
 
-##### Libraries
-jQuery | Animate on Scroll | Chart.js
+* ##### Libraries
+  jQuery | Animate on Scroll | Chart.js
 
-##### APIs
-Google News API
-Alpha Vantage API
+* ##### APIs
+  Google News API | Alpha Vantage API
 
 ### Authors
 Ogonnaya Oshagbemi, Ricky Lai, Stepahnie Bouasy, Ty Meara
