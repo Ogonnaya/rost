@@ -7,7 +7,7 @@ While there are many great apps and websites out there, they include terms and d
 The ROST app filters out all excess material and provides key data that helps the user decide whether to sell, buy or hold.
 
 ### Features
-#### Search
+* #### Search
 Search for any company name to receive up to date information in the ticker.
 
 #### Stock Ticker
