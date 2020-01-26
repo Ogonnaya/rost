@@ -8,13 +8,13 @@ The ROST app filters out all excess material and provides key data that helps th
 
 ### Features
 * #### Search
-Search for any company name to receive up to date information in the ticker.
+  Search for any company name to receive up to date information in the ticker.
 
-#### Stock Ticker
-Shows stock information for the company that is searched for.
+* #### Stock Ticker
+  Shows stock information for the company that is searched for.
 
-#### Stock News
-Shows top articles relevant to the companies that are searched for.
+* #### Stock News
+  Shows top articles relevant to the companies that are searched for.
 
 #### Try it out: [ROST](https://ogonnaya.github.io/rost/)
 
